@@ -17,6 +17,8 @@ MQTT_PORT = 8883
 MQTT_TOPIC = "meimefarm/Spectrum"
 MQTT_USER = "meimeifarm"
 MQTT_PASSWORD = "Meimei83036666"
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 
 # Shared state updated by MQTT callback
 latest_spectrum = {}
